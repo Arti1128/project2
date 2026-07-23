@@ -1,1 +1,1 @@
-
+# An interactive Power BI dashboard that analyzes e-commerce sales performance using KPIs, regional analysis, customer insights, product profitability, and dynamic filters to support data-driven business decisions.
